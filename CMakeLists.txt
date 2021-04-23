@@ -3,4 +3,4 @@ project(Grafos_IFCE C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Grafos_IFCE main.c)
+add_executable(Grafos_IFCE main.c lista_de_adjacencias.h)
